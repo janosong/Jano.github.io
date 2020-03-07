@@ -1,7 +1,11 @@
 # Header
 menu:
   Home: /
+  Tech: /tech
+  Caprices: /caprices
   Archives: /archives
+  About me: /about
+
 rss: /atom.xml
 
 # Content
